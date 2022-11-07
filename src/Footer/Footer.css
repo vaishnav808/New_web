@@ -1,0 +1,22 @@
+#footer{
+    background-color: black;
+}
+
+#footerdown{
+    padding: 3%;
+}
+
+#footerheading{
+    color: rgb(55, 255, 0);
+}
+
+#footerup{
+    background-color: blueviolet;
+    padding-top: 2%;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+#footer_section{
+    background-color: blueviolet;
+}
